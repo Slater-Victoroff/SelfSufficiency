@@ -1,0 +1,5 @@
+Acceptable temperature range determined by ASHRAE standard 55. https://en.wikipedia.org/wiki/ASHRAE_55
+
+Under this model, since air speeds above 0.2 m/s are accounted for differently, we shall keep airspeeds below
+0.2 m/s to avoid any discomfort brought by extreme movement speed, but we must account for humidity as we
+have much less control over it.
